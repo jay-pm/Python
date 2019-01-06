@@ -1,8 +1,9 @@
-# Python
-website blocker
 
-This is a python program to block some of non-work related websites during working hour.
-To keep this program running in background change the file extension to .pyw.
-Add this script yo windows 'task scheduler' to start it when the computer starts.
+### 1. Quick introduction
 
-Feel free to share your comments on this.
+- Developed by Guido Van Rossum
+- General Purpose: build anything
+- Open Source! Free!
+- There are many Python Packages, also for Data Science
+- Many applications and fields
+- We will use Version 3.x - h!ps://www.python.org/downloads/
