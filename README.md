@@ -6,4 +6,4 @@
 - Open Source! Free!
 - There are many Python Packages, also for Data Science
 - Many applications and fields
-- We will use Version 3.x - h!ps://www.python.org/downloads/
+- We will use Version 3.x -://www.python.org/downloads/
