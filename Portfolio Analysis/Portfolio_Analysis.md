@@ -11,3 +11,8 @@ An active investor typically tries to beat a benchmark or to maximize return for
 The equal weighted portfolio, combines stocks and gives them all the same weight, as the name suggests.  
 The market-cap weighted portfolio creates individual weights based on the size of the companies, measured by market capitalization. Market capitalization is the value of the company calculated by multiplying a company's shares by the current market price of one share.  
 A risk-return optimized portfolio has an optimized risk-return trade-off.  
+
+- Financial Risk: Defined as the uncertainty of future returns, often measured by the dispersion or variance of those returns.
+- Types of Financial Returns:
+    - Discrete Returns (Simple Returns): Calculated as (Today's Price - Yesterday's Price) / Yesterday's Price.
+    - Log Returns (Continuous Returns): Used in advanced financial models. log(Today's Price / Yesterday's Price)
